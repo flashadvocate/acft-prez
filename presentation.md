@@ -1,16 +1,15 @@
 autoscale: true
-theme: Libre,1
+theme: Chris Titillium
 
 ![](winters.jpg)
 
-# THE ACFT
-## ARMY **COMBAT FITNESS** TEST
+# ARMY **COMBAT FITNESS** TEST
 
-#### SFC DEATON - MFT, ACFT II
+SFC DEATON - MFT, ACFT II
 
 ---
 
-## THE AGENDA
+# THE AGENDA
 
 - Why are we switching?
 - What is the ACFT?
@@ -20,23 +19,42 @@ theme: Libre,1
 
 ---
 
-# WHY?
-### ARMY COMBAT FITNESS TEST
+# WHY WE ARE SWITCHING
 
 - The APFT is over **40 years old**.
 - Not an effective measurement of overall fitness.
-- Situps are a waste of time.
+  - Primarily muscular and aerobic endurance
+  - **40%** predictive success vs ACFT **80%** predictive
+
+---
+
+WHY WE ARE SWITCHING
+
+- Overall fitness is comprised of many other components
+  - Muscular strength and endurance
+  - Power, Speed, Agility
+  - Balance, flexibility
+  - Cardio endurance
+
+---
+
+WHY WE ARE SWITCHING
+
+- Improve soldier and unit readiness
+- Transform the Army's fitness culture
+- Reduce preventable injuries and attrition
+- Enhance mental toughness and stamina
+
 
 ---
 
 ![](kettle.jpg)
 
-# WHAT IS THE **ACFT**?
-### ARMY COMBAT FITNESS TEST
+# WHAT IS THE **ACFT**
 
 ---
 
-#  WHAT IS THE **ACFT**?
+WHAT IS THE **ACFT**
 
 - A **6-event** total body fitness test designed to inform commanders of their unit's ability to meet physical demands faced in **combat**
  - 3RM Deadlift
@@ -72,26 +90,22 @@ theme: Libre,1
 
 ---
 
-#  WHAT IS THE **ACFT**?
+WHAT IS THE **ACFT**
 
 - Test is age AND gender agnostic
 - Based on physical demands of unit/MOS
- - Moderate, Significant, Heavy
- - OPAT is a precursor, but will not go away
+  - Moderate, Significant, Heavy
+  - OPAT is a precursor, but will not go away
 
 ---
 
 ![](kettle.jpg)
-## WHEN WILL IT BE **IMPLEMENTED**?
-### ARMY COMBAT FITNESS TEST
+
+## IMPLEMENTATION PERIOD
 
 ---
 
-## WHEN WILL IT BE **IMPLEMENTED**?
-
-- The ACFT will be performed diagnostically during FY 20.
-  - Units will conduct 2 diagnostic ACFTs
-- It will replace the APFT beginning in FY 21.
+![fit](timeline.png)
 
 ---
 
@@ -116,8 +130,3 @@ theme: Libre,1
  - Myfitnesspal - track what you eat, and stick with it!
  - Carbs, sugars, fats don't make you fat. Calories do.
  - Tactical athletes should consume between .7g-1g of protein per pound of body weight
-
-
-
-
-
